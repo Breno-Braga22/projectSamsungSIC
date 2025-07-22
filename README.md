@@ -9,7 +9,7 @@ Sistema inteligente de automação residencial que utiliza **reconhecimento de g
 
 O MotionSync permite interações naturais com o ambiente usando **gestos das mãos capturados por webcam** e interpretados em tempo real com . Ele envia comandos via GPIO ou protocolo MQTT para controlar diversos dispositivos domésticos.
 
-> 💡 Para uma visão geral visual e explicativa do projeto, consulte o arquivo [`motionSync.pdf`](./motionSync.pdf).
+> 💡 Para uma visão geral visual e explicativa do projeto, consulte o arquivo [`gesture_control/motionSync.pdf`](./motionSync.pdf).
 
 ---
 
