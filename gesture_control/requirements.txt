@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+numpy
+keras
+tensorflow==2.9.1
